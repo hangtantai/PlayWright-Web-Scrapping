@@ -1,0 +1,32 @@
+[
+  {
+    "src": "https://preview.redd.it/x3lbupdlk2j71.jpg?width=640&crop=smart&auto=webp&s=2312347ce7b8bd7077fe5fd3b482d4f5127a45e5",
+    "url": "https://www.reddit.com/r/ProgrammerHumor/comments/p9vma4/python_is_such_a_weird_language/",
+    "alt": "",
+    "is_header": false,
+    "is_footer": false,
+    "is_logo": false,
+    "file_size": 31095,
+    "is_large_file": true,
+    "width": 640,
+    "height": 492,
+    "has_image_shape": true,
+    "is_meaningful": true,
+    "screenshot_path": "screenshots\\0_x3lbupdlk2j71.jpg"
+  },
+  {
+    "src": "https://preview.redd.it/x3lbupdlk2j71.jpg?width=640&crop=smart&auto=webp&s=2312347ce7b8bd7077fe5fd3b482d4f5127a45e5",
+    "url": "https://www.reddit.com/r/ProgrammerHumor/comments/p9vma4/python_is_such_a_weird_language/",
+    "alt": "r/ProgrammerHumor - Most programming languages Python I don't care how you format your code I can't run cus you didn't indent line 46",
+    "is_header": false,
+    "is_footer": false,
+    "is_logo": false,
+    "file_size": 31095,
+    "is_large_file": true,
+    "width": 640,
+    "height": 492,
+    "has_image_shape": true,
+    "is_meaningful": true,
+    "screenshot_path": "screenshots\\1_x3lbupdlk2j71.jpg"
+  }
+]
